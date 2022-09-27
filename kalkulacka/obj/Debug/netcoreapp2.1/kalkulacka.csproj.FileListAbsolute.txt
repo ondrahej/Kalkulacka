@@ -1,0 +1,11 @@
+C:\Users\hejduk.on.2022\source\repos\kalkulacka\kalkulacka\obj\Debug\netcoreapp2.1\kalkulacka.csprojAssemblyReference.cache
+C:\Users\hejduk.on.2022\source\repos\kalkulacka\kalkulacka\obj\Debug\netcoreapp2.1\kalkulacka.csproj.CoreCompileInputs.cache
+C:\Users\hejduk.on.2022\source\repos\kalkulacka\kalkulacka\obj\Debug\netcoreapp2.1\kalkulacka.AssemblyInfoInputs.cache
+C:\Users\hejduk.on.2022\source\repos\kalkulacka\kalkulacka\obj\Debug\netcoreapp2.1\kalkulacka.AssemblyInfo.cs
+C:\Users\hejduk.on.2022\source\repos\kalkulacka\kalkulacka\bin\Debug\netcoreapp2.1\kalkulacka.deps.json
+C:\Users\hejduk.on.2022\source\repos\kalkulacka\kalkulacka\bin\Debug\netcoreapp2.1\kalkulacka.runtimeconfig.json
+C:\Users\hejduk.on.2022\source\repos\kalkulacka\kalkulacka\bin\Debug\netcoreapp2.1\kalkulacka.runtimeconfig.dev.json
+C:\Users\hejduk.on.2022\source\repos\kalkulacka\kalkulacka\bin\Debug\netcoreapp2.1\kalkulacka.dll
+C:\Users\hejduk.on.2022\source\repos\kalkulacka\kalkulacka\bin\Debug\netcoreapp2.1\kalkulacka.pdb
+C:\Users\hejduk.on.2022\source\repos\kalkulacka\kalkulacka\obj\Debug\netcoreapp2.1\kalkulacka.dll
+C:\Users\hejduk.on.2022\source\repos\kalkulacka\kalkulacka\obj\Debug\netcoreapp2.1\kalkulacka.pdb
