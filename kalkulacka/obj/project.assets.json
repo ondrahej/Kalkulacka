@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hejduk.on.2022\\source\\repos\\kalkulacka\\kalkulacka\\kalkulacka.csproj",
+      "projectUniqueName": "C:\\Users\\hejduk.on.2022\\Desktop\\calc\\Kalkulacka\\kalkulacka\\kalkulacka.csproj",
       "projectName": "kalkulacka",
-      "projectPath": "C:\\Users\\hejduk.on.2022\\source\\repos\\kalkulacka\\kalkulacka\\kalkulacka.csproj",
+      "projectPath": "C:\\Users\\hejduk.on.2022\\Desktop\\calc\\Kalkulacka\\kalkulacka\\kalkulacka.csproj",
       "packagesPath": "C:\\Users\\hejduk.on.2022\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hejduk.on.2022\\source\\repos\\kalkulacka\\kalkulacka\\obj\\",
+      "outputPath": "C:\\Users\\hejduk.on.2022\\Desktop\\calc\\Kalkulacka\\kalkulacka\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

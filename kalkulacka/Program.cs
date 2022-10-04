@@ -21,9 +21,9 @@ namespace kalkulacka
             //Console.WriteLine($"Výsledek: ");
             //Console.WriteLine(odmocnina);
 
-
-
-            while (true)
+            bool pokracovat = true;
+            
+            while (pokracovat)
             {
                 Console.Write("Zadej číslo: ");
                 int cislo1 = int.Parse(Console.ReadLine());
@@ -61,7 +61,15 @@ namespace kalkulacka
                 }
 
                 Console.WriteLine($"Výsledek je: {vysledek}");
-                Thread.Sleep(4000);
+
+                Console.WriteLine("Chceš pokračovat (ano/ne)?");
+                string odpoved = Console.ReadLine();
+
+                if (odpoved == "ne")
+                {
+                    pokracovat = false;
+                }
+                
                 Console.Clear();
             }
 
